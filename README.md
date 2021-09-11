@@ -15,6 +15,6 @@ robot telling jokes is a web app using Web Speech APIs, which can be applied to 
 ![JOKES BOT DEMO](https://github.com/MahmoudSafan/Bot-Telling-Jokes/blob/main/gif-demo.gif?raw=true "DEMO")
 
 # Tech/framework used
-HTML, CSS & JS
-[Jokes API](https://sv443.net/jokeapi/v2/).
-[Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis).
+* HTML, CSS & JS
+* [Jokes API](https://sv443.net/jokeapi/v2/).
+* [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis).
