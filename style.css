@@ -14,19 +14,17 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
-    max-width: 100%;
-    
+    text-align: center;    
 }
+
 .main-ctr{
-    padding-top: 2rem;
-    text-align: center;
+    max-width: 500px;
+    padding: 1.5rem 1rem;
 }
 
 #btn{
     margin: 1rem;
     padding: 1rem;
-    width: 22%;
     border-radius: 1.3rem;
     border-color:rgb(94, 228, 228);
     border-style: solid;
@@ -35,6 +33,7 @@ body{
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
+
 #btn:hover{
     border-color: rgb(151, 64, 231);
     background-color: rgb(90, 143, 241);
@@ -42,7 +41,6 @@ body{
 
 #text{
     color: #fff;
-    background-color: var(--main-clr);
 	margin-top: 0.7rem;
 	line-height: 1.6;
 	padding: 1rem;
@@ -74,8 +72,3 @@ footer{
 footer a{
     color: inherit;
 }
-
-/* footer p{
-    position: fixed;
-    top: 85%;
-} */
