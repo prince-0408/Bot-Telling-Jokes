@@ -2,21 +2,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&family=Slabo+27px&display=swap');
 
 *{
-    background: #0084C2;  /* fallback for old browsers */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #0084C2;
 }
 
 body{
-    margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-    background: #0084C2;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 100%;
     
 }
-container{
+.main-ctr{
     padding-top: 2rem;
     text-align: center;
-
-    /* max-width: 500px; */
 }
 
 #btn{
@@ -63,18 +67,15 @@ container{
 }
 
 footer{
-    margin-top: 3rem;
     color: ivory;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    padding-bottom: 1rem;
+   
 }
 footer a{
     color: inherit;
 }
 
-footer p{
+/* footer p{
     position: fixed;
     top: 85%;
-}
+} */
