@@ -9,7 +9,7 @@ Feedback and questions are welcome!
 Find the project requirements here: [Joke telling bot web app](https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak)
 
 
-## LIVE DEMO [Jokes BOT](https://mahmoudsafan.github.io/Bot-Telling-Jokes/200/300).
+## LIVE DEMO [Jokes BOT](https://mahmoudsafan.github.io/Bot-Telling-Jokes/).
 
 
 ![JOKES BOT DEMO](https://github.com/MahmoudSafan/Bot-Telling-Jokes/blob/main/gif-demo.gif?raw=true "DEMO")
